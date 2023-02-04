@@ -25,7 +25,7 @@ let tasks = [
     return [
       1,
       () => {
-        console.log("Rajnish");
+        console.log("Peter");
       },
     ];
   };
